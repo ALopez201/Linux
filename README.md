@@ -1,4 +1,3 @@
-Sameh's branch on basic linux commands  https://github.com/Smahrous/Linux/blob/sameh/README.md
 Anthony Lopez & Sameh Mahrous
 IS117-006
 4-3-19
